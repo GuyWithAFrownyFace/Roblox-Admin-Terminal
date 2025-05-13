@@ -2,7 +2,7 @@ local Enums = require(script.Parent.EnumsModule)
 local Settings = {}
 
 Settings.PermissionLevels = {
-	[1091579815] = Enums.PermissionLevel.Owner,
+	--[1234567890] = Enums.PermissionLevel.Owner, examples
 	--[87654321] = Enums.PermissionLevel.Admin, examples
 	--[55555555] = Enums.PermissionLevel.Mod, examples
 }
