@@ -1,0 +1,33 @@
+{
+  "name": "AdminTerminal-WIP",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      },
+      "TerminalRemotes": {
+        "$className": "Folder",
+        "MessageType": {
+          "$className": "RemoteEvent"
+        },
+        "TerminalCommand": {
+          "$className": "RemoteEvent"
+        }
+      }
+    },
+
+    "ServerScriptService": {
+      "Terminal": {
+        "$path": "src/server"
+      }
+    },
+
+    "StarterGui": {
+      "TerminalGui": {
+        "$path": "src/client/TerminalGui"  
+      }
+    }
+  }
+}
