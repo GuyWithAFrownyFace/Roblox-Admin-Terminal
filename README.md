@@ -1,4 +1,11 @@
 Roblox Terminal Command System
+
+🔏 Usage Terms  
+- You may use/modify this code, but **you MUST**:  
+  - Credit me (`@GuyWithAFrownyFace`) prominently.  
+  - Link back to this repo.  
+- Commercial use? [DM me](`ak_beamer`)(DISCORD) first. 
+
 DISCLAIMER:
 This will NOT work in Rojo currently. The system is designed around the Roblox Studio hierarchy and uses GUI elements and assets that require Studio's built-in services and layout.
 
